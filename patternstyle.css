@@ -1,8 +1,9 @@
 #header {
     /* background: url("header.jpg") center center / cover  no-repeat; */
     background: url("header.jpg");
+    background-size: cover;
 }
-
-img {
-    max-height: 500px;
-}
+ 
+img.card-img-top {
+    height: 300px;
+}x-
